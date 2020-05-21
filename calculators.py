@@ -4,3 +4,11 @@ def normal_bmi_weights(height):
     return 'The normal weight ranges are ' + str(round(low_norm, 1)) + ' lbs - ' + str(round(hi_norm, 1)) + ' lbs.'
 
 
+def gtt_to_ml():
+    pass
+
+
+def ml_to_gtt():
+    pass
+
+
